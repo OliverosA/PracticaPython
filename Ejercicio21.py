@@ -1,7 +1,7 @@
 print("leer un numero y determinar si es primo o no es primo")
 
 
-def sumaPrimos():
+def Primos():
     a = 0
     n = int(input("Ingrese numero\n"))
     for i in range(1, n + 1):
@@ -11,3 +11,5 @@ def sumaPrimos():
         print("No es primo")
     else:
         print("si es primo")
+
+Primos()
