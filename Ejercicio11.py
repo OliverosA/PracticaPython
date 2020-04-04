@@ -1,8 +1,20 @@
-print("IIngrese un numero y muestre su tabla de multiplicar")
+print("Determinar el mayor de una secuencia de numeros")
 
-def tabla():
-    n1 = int(input("Ingrese un numero entero para mostrar su tabla de multiplicar: "))
-    for i in range(1,11):
-        print(n1,"*",i,"= ",n1*i)
 
-tabla()
+def numMayor():
+    while True:
+        fin = "n"
+        numero1 = float(input("Ingrese el primer numero: "))
+        numero2 = float(input("Ingrese el segundo numero: "))
+
+        if (numero1 > numero2):
+            print("el primer numero: "+str(numero1) + " Es mayor")
+        else:
+            print("el segundo numero: "+str(numero2) + " Es mayor")
+
+        respuesta = input("Desea Continuar? Si = s, No = n :")
+
+        if (respuesta == fin):
+            break
+
+numMayor()

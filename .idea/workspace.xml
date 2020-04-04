@@ -2,18 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="24ba608a-ce4d-4e1a-9cea-a21acbaeb084" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Ejercicio10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ejercicio11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ejercicio12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ejercicio14.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ejercicio15.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ejercicio17.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ejercicio18.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ejercicio19.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ejercicio8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ejercicio9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicio13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicio16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicio20.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicio21.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicio22.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicio23.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicio24.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicio25.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Ejercicio1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicio1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicio10.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicio10.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicio11.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicio11.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicio12.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicio12.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicio14.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicio14.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicio15.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicio15.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicio17.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicio17.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicio18.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicio18.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicio19.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicio19.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicio2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicio2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicio4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicio4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicio5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicio5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicio6.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicio6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicio7.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicio7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicio8.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicio8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicio9.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicio9.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ejercicio3.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,8 +56,8 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../PrimeraClaseVirtual" />
   </component>
-  <component name="RunManager" selected="Python.Ejercicio19">
-    <configuration name="Ejercicio14" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Ejercicio25">
+    <configuration name="Ejercicio13" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="EjerciciosClaseVirtual2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -56,7 +70,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ejercicio14.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\RADEON\PycharmProjects\EjerciciosClaseVirtual2\Ejercicio13.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -65,7 +79,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Ejercicio15" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Ejercicio23" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="EjerciciosClaseVirtual2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -78,7 +92,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ejercicio15.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\RADEON\PycharmProjects\EjerciciosClaseVirtual2\Ejercicio23.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -87,7 +101,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Ejercicio17" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Ejercicio24" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="EjerciciosClaseVirtual2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -100,7 +114,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ejercicio17.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ejercicio24.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -109,7 +123,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Ejercicio18" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Ejercicio25" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="EjerciciosClaseVirtual2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -122,7 +136,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ejercicio18.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ejercicio25.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -131,7 +145,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Ejercicio19" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Ejercicio8" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="EjerciciosClaseVirtual2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -144,7 +158,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ejercicio19.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ejercicio8.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -155,11 +169,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Ejercicio19" />
-        <item itemvalue="Python.Ejercicio18" />
-        <item itemvalue="Python.Ejercicio17" />
-        <item itemvalue="Python.Ejercicio15" />
-        <item itemvalue="Python.Ejercicio14" />
+        <item itemvalue="Python.Ejercicio25" />
+        <item itemvalue="Python.Ejercicio24" />
+        <item itemvalue="Python.Ejercicio8" />
+        <item itemvalue="Python.Ejercicio23" />
+        <item itemvalue="Python.Ejercicio13" />
       </list>
     </recent_temporary>
   </component>
@@ -176,7 +190,8 @@
       <workItem from="1585404935079" duration="3300000" />
       <workItem from="1585441560452" duration="15163000" />
       <workItem from="1585695784284" duration="8531000" />
-      <workItem from="1585795175389" duration="3278000" />
+      <workItem from="1585795175389" duration="3539000" />
+      <workItem from="1585962813337" duration="10533000" />
     </task>
     <servers />
   </component>
@@ -196,38 +211,42 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="505" y="280" key="Github.CreateGistDialog/0.0.1366.728/1366.0.1536.824@0.0.1366.728" timestamp="1585456454330" />
-    <state width="1323" height="165" key="GridCell.Tab.0.bottom" timestamp="1585798296538">
+    <state width="1323" height="164" key="GridCell.Tab.0.bottom" timestamp="1585974051134">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="165" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1536.824@0.0.1366.728" timestamp="1585798296538" />
-    <state width="1323" height="165" key="GridCell.Tab.0.center" timestamp="1585798296538">
+    <state width="1323" height="164" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1536.824@0.0.1366.728" timestamp="1585974051134" />
+    <state width="1323" height="164" key="GridCell.Tab.0.center" timestamp="1585974051134">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="165" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1536.824@0.0.1366.728" timestamp="1585798296538" />
-    <state width="1323" height="165" key="GridCell.Tab.0.left" timestamp="1585798296538">
+    <state width="1323" height="164" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1536.824@0.0.1366.728" timestamp="1585974051134" />
+    <state width="1323" height="164" key="GridCell.Tab.0.left" timestamp="1585974051133">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="165" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1536.824@0.0.1366.728" timestamp="1585798296538" />
-    <state width="1323" height="165" key="GridCell.Tab.0.right" timestamp="1585798296538">
+    <state width="1323" height="164" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1536.824@0.0.1366.728" timestamp="1585974051133" />
+    <state width="1323" height="164" key="GridCell.Tab.0.right" timestamp="1585974051134">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="165" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1536.824@0.0.1366.728" timestamp="1585798296538" />
-    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1585795202212">
+    <state width="1323" height="164" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1536.824@0.0.1366.728" timestamp="1585974051134" />
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1585962827898">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.1536.824@0.0.1366.728" timestamp="1585795202212" />
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.1536.824@0.0.1366.728" timestamp="1585962827898" />
     <state x="687" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1585711723273">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="687" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728/1366.0.1536.824@0.0.1366.728" timestamp="1585711723273" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/EjerciciosClaseVirtual2$Ejercicio20.coverage" NAME="Ejercicio20 Coverage Results" MODIFIED="1585963324148" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/EjerciciosClaseVirtual2$Ejercicio10.coverage" NAME="Ejercicio10 Coverage Results" MODIFIED="1585698171114" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/EjerciciosClaseVirtual2$Ejercicio9.coverage" NAME="Ejercicio9 Coverage Results" MODIFIED="1585697169896" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/EjerciciosClaseVirtual2$Ejercicio13.coverage" NAME="Ejercicio13 Coverage Results" MODIFIED="1585963142494" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/EjerciciosClaseVirtual2$Ejercicio17.coverage" NAME="Ejercicio17 Coverage Results" MODIFIED="1585795989778" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/EjerciciosClaseVirtual2$Ejercicio19.coverage" NAME="Ejercicio19 Coverage Results" MODIFIED="1585798291691" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/EjerciciosClaseVirtual2$Ejercicio7.coverage" NAME="Ejercicio7 Coverage Results" MODIFIED="1585456139873" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/EjerciciosClaseVirtual2$Ejercicio25.coverage" NAME="Ejercicio25 Coverage Results" MODIFIED="1585973417944" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/EjerciciosClaseVirtual2$Ejercicio6.coverage" NAME="Ejercicio6 Coverage Results" MODIFIED="1585449293958" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/EjerciciosClaseVirtual2$Ejercicio16.coverage" NAME="Ejercicio16 Coverage Results" MODIFIED="1585963223391" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/EjerciciosClaseVirtual2$Ejercicio18.coverage" NAME="Ejercicio18 Coverage Results" MODIFIED="1585797549402" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/EjerciciosClaseVirtual2$Ejercicio15.coverage" NAME="Ejercicio15 Coverage Results" MODIFIED="1585713408807" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/EjerciciosClaseVirtual2$Ejercicio5.coverage" NAME="Ejercicio5 Coverage Results" MODIFIED="1585447671145" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -237,8 +256,10 @@
     <SUITE FILE_PATH="coverage/EjerciciosClaseVirtual2$Ejercicio4.coverage" NAME="Ejercicio4 Coverage Results" MODIFIED="1585447528141" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/EjerciciosClaseVirtual2$Ejercicio14.coverage" NAME="Ejercicio14 Coverage Results" MODIFIED="1585712153521" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/EjerciciosClaseVirtual2$Ejercicio_8.coverage" NAME="Ejercicio 8 Coverage Results" MODIFIED="1585696781340" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/EjerciciosClaseVirtual2$Ejercicio24.coverage" NAME="Ejercicio24 Coverage Results" MODIFIED="1585967837004" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/EjerciciosClaseVirtual2$Ejercicio1.coverage" NAME="Ejercicio1 Coverage Results" MODIFIED="1585442306568" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/EjerciciosClaseVirtual2$Ejercicio11.coverage" NAME="Ejercicio11 Coverage Results" MODIFIED="1585699349027" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/EjerciciosClaseVirtual2$ejercicio3.coverage" NAME="ejercicio3 Coverage Results" MODIFIED="1585444237494" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/EjerciciosClaseVirtual2$Ejercicio8.coverage" NAME="Ejercicio8 Coverage Results" MODIFIED="1585964551047" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

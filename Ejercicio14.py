@@ -1,26 +1,26 @@
-def divisionRestas(n1,n2):
-    cociente = 0
-    resto = 0
-
-    while True:
-        if n1-n2<0:
-            break
-        else:
-            resto = n1-n2
-            cociente = cociente+1
-            n1=resto
-    print("Cociente: ", cociente, "Resto: ", resto )
-    #fin del metodo
+print("calcular la media de una secuencia de numeros")
+print("el programa terminara cuando el usuario oprima F")
 
 
-n1 = int(input("Ingrese el dividendo: "))
-n2 = int(input("Ingrese el divisor: "))
-while True:
-    if n2>n1:
-        print("El divisor no puede ser mayor")
-        n2 = int(input("Ingrese el divisor: "))
-    elif n1>=n2:
-        divisionRestas(n1, n2)
-        break
-    else:
-        break
+def Media():
+    valor = input("Ingrese un valor numerico: ")
+    if valor == "f":
+        print("F detectada fin del programa")
+
+    elif valor != "f":
+        suma = 0
+        suma = suma + int(valor)
+        contador = 1
+        media = suma / contador
+        while True:
+            print("La media es: ",media)
+            valor = input("Ingrese un valor numero o F para terminar: ")
+            if valor == "f" or valor == "F":
+                break
+            else:
+                suma = suma + int(valor)
+                contador = contador+1
+                media = suma / contador
+
+
+Media()

@@ -1,17 +1,15 @@
-import os
+def binario(num):
+    numBinario = ""
 
-print("secuencia de 30 numeros y mostrar la suma y el producto de ellos")
+    while True:
+        if num // 2 <= 0:
+            break
+        else:
+            numBinario = str(num % 2) + numBinario
+            num = num // 2
 
-def sumaProducto():
-    suma = 0
-    producto = 1
-    for i in range(0,30):
-
-        n1 = int(input("Ingrese el numero "+str(i+1)+": "))
-        suma = suma + n1
-        producto = producto * n1
+    print(str(num)+numBinario)
 
 
-    print("La Suma De La Secuencia Es: ",suma,"\n ","El producto De La Secuencia Es: ",producto)
-
-sumaProducto()
+num = int(input("Ingrese un numero Entero: "))
+binario(num)

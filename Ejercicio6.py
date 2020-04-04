@@ -1,14 +1,18 @@
-def factorial():
-    _factorial = 0
-    numero = int(input("Ingrese un numero mayor a 0: "))
+import os
 
-    if numero==0:
-        print("El factorial de 0 es 1")
-    else:
-        _factorial = 1
-        for i in range(1,numero+1):
-            _factorial = _factorial * i
+print("secuencia de 30 numeros y mostrar la suma y el producto de ellos")
 
-        print("El factorial del numero ingresado es: "+str(_factorial))
 
-factorial()
+def sumaProducto():
+    suma = 0
+    producto = 1
+    for i in range(0,30):
+
+        n1 = int(input("Ingrese el numero "+str(i+1)+": "))
+        suma = suma + n1
+        producto = producto * n1
+
+    print("La Suma De La Secuencia Es: ", suma, "\n ", "El producto De La Secuencia Es: ", producto)
+
+
+sumaProducto()

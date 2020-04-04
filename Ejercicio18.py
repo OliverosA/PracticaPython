@@ -1,36 +1,23 @@
-print("leer una secuencia de numeros y mostrar cual es el mayor y menor")
-print("el proceso finalizara al ingresar un numero impar")
+print("Leer una secuencia de números y mostrar los 30 primeros pares leídos")
 
 
-def numMayor(lista,contador):
-    # ciclo burbuja para reordenamiento de valores
-    print(contador)
-    for i in range(0, contador):
-        j = i
-        for j in range(0, contador):
-            if lista[i] > lista[j]:
-                aux = lista[i]
-                lista[i] = lista[j]
-                lista[j] = aux
-            j = j + 1
-        i = i + 1
+def MostrarPares():
 
-    print("el numero mayor es: ", lista[0], "el numero menor es: ", lista[contador-1])
-
-
-def mayorMenor():
+    contadorPares = 0
     lista = []
-    contador = 0
+
     while True:
-        numero = int(input("Ingrese un valor numerico: "))
+        numero = int(input("Ingrese un numero: "))
         if numero % 2 == 0:
-             lista.append(numero)
-             contador=contador+1
-             numMayor(lista,contador)
-
+            lista.append(numero)
+            contadorPares = contadorPares+1
+            if contadorPares==30:
+                break
         else:
-            print("El Numero Es Impar Fin Del Programa")
-            break
+            continue
+
+    print("Los pares ingresados son: ")
+    print(lista)
 
 
-mayorMenor()
+MostrarPares()

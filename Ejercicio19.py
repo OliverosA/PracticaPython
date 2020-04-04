@@ -1,22 +1,17 @@
-print("Leer una secuencia de números y mostrar los 30 primeros pares leídos")
+print("Leer una secuencia de números y mostrar")
+print("la suma de los 30 números que ocupan posiciones de lectura par.")
 
 
-def MostrarPares():
-    contadorPares = 0
-    lista = []
+def LecturaPar():
 
+    suma = 0
+    posicionLectura = 0
     while True:
-        numero = int(input("Ingrese un numero: "))
-        if numero % 2 == 0:
-            lista.append(numero)
-            contadorPares = contadorPares+1
-            if contadorPares==30:
-                break
-        else:
-            continue
-
-    print("Los pares ingresados son: ")
-    print(lista)
+        num = int(input("ingrese un numero: "))
+        posicionLectura = posicionLectura + 1
+        if posicionLectura % 2 == 0:
+            suma = suma + num
+    print(suma)
 
 
-MostrarPares()
+LecturaPar()

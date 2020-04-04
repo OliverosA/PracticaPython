@@ -1,28 +1,19 @@
-print("leer 3 numeros y mostrar el mayor de ellos")
-lista = []#iniciamos una lista vacia
+def bucle():
+    producto = 1
+    respuesta = ""
+    fin = "f"
 
-i=0
+    while True:
+        numero = float(input("Ingrese el numero: "))
+        producto = producto * numero
+        print(producto)
+        respuesta = input("Desea Continuar? Si = s, No = f :")
 
-for i in range(0,3):
-    num = int(input("Ingrese el numero: "+str(i+1)+": "))
+        if (respuesta == fin):
+            break
 
-    lista.append(num)
+    print("fin del bucle")
 
-def numMayor(lista):
-    # ciclo burbuja para reordenamiento de valores
-    for i in range(0, 3):
-        j = i
-        for j in range(0, 3):
-            if lista[i] > lista[j]:
-                aux = lista[i]
-                lista[i] = lista[j]
-                lista[j] = aux
-            j = j + 1
-        i = i + 1
-
-    print("El numero mayor es: ", lista[0])
-
-numMayor(lista)
-
+bucle()
 
 

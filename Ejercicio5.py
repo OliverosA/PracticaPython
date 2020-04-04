@@ -1,15 +1,9 @@
-def sumaPares():
-    suma = 0
+print("IIngrese un numero y muestre su tabla de multiplicar")
 
-    numero = int(input("Ingresa un numero: "))
 
-    while numero%2==0:
-        numero = int(input("Ingrese un numero:"))
-        if numero%2==0:
-            suma = suma + numero
-            print(suma)
-        else:
-            print("Numero Impar Fin De La Suma")
-            break
+def tabla():
+    n1 = int(input("Ingrese un numero entero para mostrar su tabla de multiplicar: "))
+    for i in range(1,11):
+        print(n1,"*",i,"= ",n1*i)
 
-sumaPares()
+tabla()
